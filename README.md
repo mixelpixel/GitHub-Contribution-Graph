@@ -2,21 +2,17 @@
 
 ![Heat Map Example](https://github.com/LambdaSchool/Code-Review-Checklist/raw/master/img/heatmap.png)
 
-```markdown
-If you'd like your work to count on your GitHub contribution graph, do the following:
+## If you'd like your work to count on your GitHub contribution graph, do the following:
 
 1. Create a new empty repository with the name of the project. If you
    want it to match, rename or delete your GitHub repo. Don't worry,
    your local copy will be safe.
-```
 
 ![Select "NEW repository"](https://github.com/LambdaSchool/Code-Review-Checklist/raw/master/img/select-New-repository.png)
 ![CREATE the new repository](https://github.com/LambdaSchool/Code-Review-Checklist/raw/master/img/create-new-repository.png)
 ![COPY the new repository's URL](https://github.com/LambdaSchool/Code-Review-Checklist/raw/master/img/copy-new-repo-URL.png)
 
-```markdown
 2. Add the new empty repo as a new remote to your local git repository.
-```
 
 ```console
 $  git remote -v
@@ -28,9 +24,7 @@ $  git remote -v
    origin  https://github.com/mixelpixel/Preprocessing-I.git (push)
 ```
 
-```markdown
 3. Push the project to the new repo.
-```
 
 ```console
 $  git push
@@ -46,9 +40,7 @@ $  git push
 
 ![Local repository pushed to StudentB's GitHub repository](https://github.com/LambdaSchool/Code-Review-Checklist/raw/master/img/local-repo-pushed-to-new-GH-repo.png)
 
-```markdown
 4. Optionally, delete the old GitHub repo.
-```
 
 ![Select the SETTINGS tab](https://github.com/LambdaSchool/Code-Review-Checklist/raw/master/img/select-the-project-Settings-tab.png)
 
